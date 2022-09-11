@@ -41,7 +41,7 @@
 }
 
 *, body {
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa';
     font-weight: 400;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
@@ -49,12 +49,12 @@
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Lalezar", cursive;
+    font-family: "Lalezar";
 }
 
 .cr-btn {
     display: inline-block;
-    font-family: "Lalezar", cursive;
+    font-family: "Lalezar";
     font-size: 1.45rem;
     color: #fff;
     text-transform: uppercase;
@@ -207,13 +207,13 @@ body.menu-open {
 }
 
 .main-menu .contant-info div {
-    font-family: "Lalezar", cursive;
+    font-family: "Lalezar";
     font-size: 1.3rem;
     color: #777A80;
 }
 
 .main-menu .contant-info div a {
-    font-family: "Lalezar", cursive;
+    font-family: "Lalezar";
     font-size: 1.3rem;
     color: #777A80;
     -webkit-transition: all 0.3s ease;
@@ -244,7 +244,7 @@ body.menu-open {
     display: inline-block;
     font-size: 5.3rem;
     line-height: 3.4rem;
-    font-family: "Lalezar", cursive;
+    font-family: "Lalezar";
     color: #14181C;
     text-transform: uppercase;
     -webkit-transition: all 0.5s ease;
@@ -274,7 +274,7 @@ body.menu-open {
 
 .main-menu .social-media .social-link-holder a {
     font-size: 1.2rem;
-    font-family: "Lalezar", cursive;
+    font-family: "Lalezar";
     color: #A8AAAD;
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease;
@@ -304,7 +304,7 @@ body.menu-open {
 }
 
 .cnav .logo-holder img {
-    width: 12rem;
+    width: 15rem;
 }
 
 .cnav .social-media {
